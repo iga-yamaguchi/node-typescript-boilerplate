@@ -1,3 +1,9 @@
+# study-tdd
+
+Project for TDD Study Group.  
+This is forked from [node-typescript-boilerplate](https://github.com/jsynowiec/node-typescript-boilerplate).  
+Below is readme of the forked repository.
+
 [![Dev dependencies][dependencies-badge]][dependencies]
 [![Node.js version][nodejs-badge]][nodejs]
 [![NPM version][npm-badge]][npm]
